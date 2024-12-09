@@ -1,6 +1,6 @@
 # Модель газа Ван-дер-Ваальса
 ## Моделирование газа Ван-дер-Ваальса с помощью потенциала Леннарда-Джонса
-![Модель взаимодействия 50 частиц]((https://github.com/GlebLarkin/Lennard-Jones-potential-simulation/blob/main/simulation.mp4))
+![Очень шакальная и лагучая визуализация взаимодействия 50 частиц](https://github.com/GlebLarkin/Lennard-Jones-potential-simulation/blob/main/output_compress-video-online.com_.gif)
 
 Для работы симуляции необходимы библиотеки numpy и matplotlib
 
