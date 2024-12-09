@@ -11,6 +11,11 @@ U(r) = \varepsilon \left((\frac{\sigma}{r})^{12} - (\frac{\sigma}{r})^{6}\right)
 ```
 где 
 r — модуль вектора $\vec{r}$ (вектор, по модулю равный расстоянию между центрами двух частиц и направленный от одной к другой), $\varepsilon$ и $\sigma$ — константы.
+
+Вот так это все дело выглядит:
+
+![Потенциал Леннарда-Джонса](https://github.com/GlebLarkin/Lennard-Jones-potential-simulation/blob/main/plot.png)
+
 Градиент потенциала есть сила взаимодейстия:
 ```math
 \vec{F} = - \vec{\nabla} U(r)= 24\varepsilon \frac{\sigma^6}{r^7} \left(2 \frac{\sigma^6}{r^7} - 1 \right) \frac{\vec{r}}{r}
